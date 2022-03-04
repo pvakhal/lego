@@ -1,1 +1,1 @@
-# lego
+# A LEGO-projekt keretében szükséges fájlok
